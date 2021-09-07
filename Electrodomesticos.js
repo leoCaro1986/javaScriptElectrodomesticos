@@ -3,7 +3,7 @@ export default class Electrodomestico{
     constructor(procedencia, consumo){
         this.procedencia = procedencia;
         this.consumo = consumo;
-    
+        
         this.precio = this.calculoprecio;
     }
 
