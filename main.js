@@ -14,3 +14,7 @@ document.write("la nevera cuesta" + nevera.precioNevera);
 
 const tv= new Tv("nacional", "B", 50,true);
 console.log(tv);
+
+prompt("Ingrese");
+
+document.close();
